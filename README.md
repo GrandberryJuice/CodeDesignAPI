@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/1342803/36623515-7293b4ec-18d3-11e8-85ab-4e2f8fb38fbd.png" width="320" alt="API Template">
     <br>
@@ -19,7 +19,7 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </center>
-=======
+
 # CodeDesignAPI
 This api uses vapor server-side swift. This API is connected to the CodeDesign project.
->>>>>>> 2239d20835455ba3e29c6ad44281e440095aa735
+
